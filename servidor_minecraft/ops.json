@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "cd33f3f6-85c5-3c3e-a90d-9834c22518b7",
+    "name": "Sanity15",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "6c137f8a-f57e-3176-a96c-8340f9d830cd",
     "name": "s",
     "level": 4,

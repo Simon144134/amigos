@@ -1,5 +1,17 @@
 [
   {
+    "inputItem": "minecraft:deepslate_tiles:4",
+    "outputItems": [
+      "minecraft:deepslate_bricks:4"
+    ]
+  },
+  {
+    "inputItem": "minecraft:deepslate_bricks:4",
+    "outputItems": [
+      "minecraft:polished_deepslate:4"
+    ]
+  },
+  {
     "inputItem": "terramity:circuit_board:1",
     "outputItems": [
       "terramity:electronic_scrap:3",
