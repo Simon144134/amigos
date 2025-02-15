@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "inputItem": "terramity:circuit_board:1",
+    "outputItems": [
+      "terramity:electronic_scrap:3",
+      "minecraft:gold_ingot:1",
+      "terramity:daemonium:1",
+      "minecraft:copper_ingot:1",
+      "terramity:cardboard:3"
+    ]
+  },
+  {
+    "inputItem": "minecraft:sniffer_egg:1",
+    "outputItems": [
+      "minecraft:moss_block:3",
+      "terramity:iridescent_shard:2",
+      "minecraft:egg:1",
+      "terramity:daemonium:3"
+    ]
+  },
+  {
+    "inputItem": "terramity:electronic_scrap:1",
+    "outputItems": [
+      "minecraft:iron_ingot:1",
+      "terramity:daemonium_chunk:2",
+      "minecraft:copper_ingot:1"
+    ]
+  }
+]
