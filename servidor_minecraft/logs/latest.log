@@ -1,17 +1,17 @@
-[15Feb2025 20:21:18.824] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Feb2025 20:21:18.828] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[15Feb2025 20:21:31.749] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Feb2025 20:21:32.052] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/amigos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Feb2025 20:21:33.133] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 20:21:33.134] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 20:21:33.135] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 20:21:33.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 20:21:33.840] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15Feb2025 20:21:33.841] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
-[15Feb2025 20:21:34.019] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+[15Feb2025 20:25:54.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Feb2025 20:25:54.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[15Feb2025 20:25:56.109] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Feb2025 20:25:56.153] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/amigos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Feb2025 20:25:56.695] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
+[15Feb2025 20:25:56.696] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[15Feb2025 20:25:56.697] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[15Feb2025 20:25:56.698] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[15Feb2025 20:25:57.073] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Feb2025 20:25:57.076] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
+[15Feb2025 20:25:57.251] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
 	Mod ID: 'otyacraftengine', Requested by: 'iammusicplayer', Expected range: '[3.7.0-alpha.2,)', Actual version: '[MISSING]'
-[15Feb2025 20:21:36.304] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Feb2025 20:21:45.067] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+[15Feb2025 20:25:58.568] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Feb2025 20:26:04.193] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
 net.minecraftforge.fml.ModLoadingException: Mod §eiammusicplayer§r requires §6otyacraftengine§r §o3.7.0-alpha.2 or above§r
 §7Currently, §6otyacraftengine§r§7 is §o§nnot installed
 	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.20.1-47.3.12.jar%23436!/:?]
@@ -49,8 +49,8 @@ net.minecraftforge.fml.ModLoadingException: Mod §eiammusicplayer§r requires §
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Feb2025 20:21:45.151] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-02-15_20.21.45-fml.txt
-[15Feb2025 20:21:45.157] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[15Feb2025 20:26:04.281] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-02-15_20.26.04-fml.txt
+[15Feb2025 20:26:04.285] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	Mod §eiammusicplayer§r requires §6otyacraftengine§r §o3.7.0-alpha.2 or above§r
 §7Currently, §6otyacraftengine§r§7 is §o§nnot installed
