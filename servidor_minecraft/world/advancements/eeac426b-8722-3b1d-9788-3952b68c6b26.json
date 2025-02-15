@@ -17,15 +17,39 @@
     },
     "done": false
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-02-15 00:17:21 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
     },
     "done": false
   },
+  "corail_recycler:recipes/netherite_disk": {
+    "criteria": {
+      "requirement_2": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
     },
     "done": false
   },
@@ -77,9 +101,27 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -137,6 +179,13 @@
     },
     "done": false
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-15 00:23:44 +0000",
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
@@ -162,9 +211,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-15 00:13:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -217,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-15 00:11:17 +0000"
@@ -226,6 +293,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 00:13:54 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -250,6 +323,12 @@
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -295,6 +374,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/decorations/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/acacia_trim": {
     "criteria": {
       "has_planks": "2025-02-15 00:11:16 +0000"
@@ -316,6 +401,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-15 00:13:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
     },
     "done": false
   },
@@ -343,6 +434,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 00:13:37 +0000"
@@ -367,6 +470,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-02-15 00:13:49 +0000",
@@ -385,6 +494,12 @@
       "WDA": "2025-02-15 00:11:17 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
@@ -410,11 +525,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "scguns:main/root": {
     "criteria": {
       "gun": "2025-02-15 00:11:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": false
   },
   "inventorypets:root": {
     "criteria": {
@@ -424,6 +551,7 @@
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
+      "requirement_2": "2025-02-15 00:20:01 +0000",
       "requirement_1": "2025-02-15 00:13:54 +0000"
     },
     "done": false
@@ -431,6 +559,12 @@
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2025-02-15 00:11:16 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -443,6 +577,12 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -470,9 +610,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-15 00:17:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-15 00:13:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -488,6 +646,18 @@
     },
     "done": false
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
@@ -497,6 +667,12 @@
   "smallships:recipes/transportation/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -536,6 +712,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
       "has_template": "2025-02-15 00:11:16 +0000"
@@ -551,6 +733,12 @@
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -578,9 +766,63 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 00:21:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-02-15 00:13:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
     },
     "done": false
   },
@@ -626,6 +868,18 @@
     },
     "done": false
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-15 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
@@ -653,6 +907,12 @@
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-02-15 00:11:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -692,6 +952,18 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
@@ -716,6 +988,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-15 00:12:33 +0000"
@@ -725,6 +1003,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
     },
     "done": false
   },
@@ -758,6 +1042,12 @@
     },
     "done": false
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_trim": {
     "criteria": {
       "has_planks": "2025-02-15 00:11:16 +0000"
@@ -776,11 +1066,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-02-15 00:11:17 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
@@ -788,9 +1090,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-02-15 00:18:45 +0000"
+    },
+    "done": false
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-02-15 00:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-02-15 00:11:18 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
@@ -815,6 +1147,24 @@
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 00:23:40 +0000"
     },
     "done": false
   },
@@ -890,6 +1240,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-15 00:21:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
@@ -939,6 +1295,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 00:13:54 +0000"
@@ -971,10 +1333,12 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:highland_tropical_rainforest": "2025-02-15 00:24:01 +0000",
       "wythers:eucalyptus_deanei_forest": "2025-02-15 00:12:29 +0000",
       "wythers:jungle_canyon": "2025-02-15 00:11:18 +0000",
       "wythers:jungle_river": "2025-02-15 00:15:06 +0000",
       "wythers:underground": "2025-02-15 00:14:22 +0000",
+      "wythers:tropical_rainforest": "2025-02-15 00:21:44 +0000",
       "wythers:eucalyptus_jungle_canyon": "2025-02-15 00:12:07 +0000"
     },
     "done": false
@@ -997,6 +1361,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2025-02-15 00:16:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-15 00:13:54 +0000"
@@ -1012,6 +1388,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-02-15 00:13:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "tropical_fish": "2025-02-15 00:21:43 +0000"
     },
     "done": false
   },
@@ -1045,9 +1427,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-02-15 00:20:01 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-02-15 00:14:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 00:20:01 +0000"
     },
     "done": false
   },
