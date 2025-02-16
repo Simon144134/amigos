@@ -366,6 +366,7 @@
       "scrubland": "2025-02-16 00:05:33 +0000",
       "lush_savanna": "2025-02-16 00:50:04 +0000",
       "mediterranean_forest": "2025-02-16 01:15:24 +0000",
+      "wasteland": "2025-02-16 18:36:22 +0000",
       "lush_desert": "2025-02-16 00:50:36 +0000"
     },
     "done": false
@@ -387,6 +388,7 @@
       "scrubland": "2025-02-16 00:05:33 +0000",
       "lush_savanna": "2025-02-16 00:50:04 +0000",
       "mediterranean_forest": "2025-02-16 01:15:24 +0000",
+      "wasteland": "2025-02-16 18:36:22 +0000",
       "lush_desert": "2025-02-16 00:50:36 +0000"
     },
     "done": false
@@ -3554,6 +3556,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-02-16 18:12:38 +0000"
@@ -3571,6 +3579,19 @@
       "found_island": "2025-02-16 18:33:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-16 18:37:28 +0000",
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
@@ -3602,9 +3623,21 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
     },
     "done": false
   },
@@ -3614,9 +3647,21 @@
     },
     "done": false
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-16 18:31:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
     },
     "done": false
   },
@@ -3629,6 +3674,12 @@
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
     },
     "done": false
   },
@@ -3650,6 +3701,18 @@
     },
     "done": false
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-02-16 18:31:16 +0000"
@@ -3665,6 +3728,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
     },
     "done": false
   },
@@ -3689,6 +3758,22 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 18:37:28 +0000"
+    },
+    "done": false
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:dry_tropical_grassland": "2025-02-16 18:36:50 +0000",
+      "wythers:scrub_forest": "2025-02-16 18:36:40 +0000",
+      "wythers:chaparral": "2025-02-16 18:36:24 +0000",
+      "wythers:scrubland": "2025-02-16 18:36:26 +0000",
+      "wythers:tropical_grassland": "2025-02-16 18:36:43 +0000"
     },
     "done": false
   },
