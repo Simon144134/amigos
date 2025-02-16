@@ -4440,3 +4440,59 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16Feb2025 01:47:33.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7835ms or 156 ticks behind
 [16Feb2025 01:47:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Survival Mode]
 [16Feb2025 01:48:02.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Feb2025 01:48:18.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [First Steps]
+[16Feb2025 01:48:18.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Heads Up]
+[16Feb2025 01:48:22.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4815ms or 96 ticks behind
+[16Feb2025 01:48:39.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Feb2025 01:48:47.573] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:47.573] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:47.574] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:47.574] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:47.575] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:48.629] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:48.630] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:48.630] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:48.631] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:48:59.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4769ms or 95 ticks behind
+[16Feb2025 01:49:17.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[16Feb2025 01:49:34.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[16Feb2025 01:49:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck fell from a high place
+[16Feb2025 01:49:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Teleported Chik3nBl4ck to Graniter82a]
+[16Feb2025 01:49:52.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[16Feb2025 01:50:10.344] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84956, l='ServerLevel[world]', x=340.11, y=68.00, z=-1345.94] died, message: 'Unemployed was blown up by Creeper'
+[16Feb2025 01:50:10.346] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/84957, l='ServerLevel[world]', x=341.02, y=68.00, z=-1345.09] died, message: 'Fisherman was blown up by Creeper'
+[16Feb2025 01:50:10.347] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/84954, l='ServerLevel[world]', x=341.33, y=68.00, z=-1347.01] died, message: 'Nitwit was blown up by Creeper'
+[16Feb2025 01:50:10.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
+[16Feb2025 01:50:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Teleported Chik3nBl4ck to Graniter82a]
+[16Feb2025 01:50:29.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
+[16Feb2025 01:50:34.441] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/85403, l='ServerLevel[world]', x=342.70, y=68.00, z=-1342.12] died, message: 'Cartographer was shot by Bonescaller'
+[16Feb2025 01:50:40.266] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Take Aim]
+[16Feb2025 01:50:40.267] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [A Throwaway Joke]
+[16Feb2025 01:50:47.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
+[16Feb2025 01:50:54.526] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/84953, l='ServerLevel[world]', x=322.30, y=62.05, z=-1368.69] died, message: 'Fisherman was slain by Drowned'
+[16Feb2025 01:51:05.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[16Feb2025 01:51:07.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Junior Summoner]
+[16Feb2025 01:51:23.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3505ms or 70 ticks behind
+[16Feb2025 01:51:41.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
+[16Feb2025 01:51:59.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[16Feb2025 01:52:18.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[16Feb2025 01:52:36.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
+[16Feb2025 01:52:55.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
+[16Feb2025 01:53:14.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
+[16Feb2025 01:53:33.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4676ms or 93 ticks behind
+[16Feb2025 01:53:41.746] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/84958, l='ServerLevel[world]', x=339.70, y=68.00, z=-1356.63] died, message: 'Fisherman burned to death'
+[16Feb2025 01:53:53.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4317ms or 86 ticks behind
+[16Feb2025 01:54:12.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[16Feb2025 01:54:16.218] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84955, l='ServerLevel[world]', x=345.51, y=67.50, z=-1343.38] died, message: 'Unemployed went up in flames'
+[16Feb2025 01:54:32.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5047ms or 100 ticks behind
+[16Feb2025 01:54:51.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4284ms or 85 ticks behind
+[16Feb2025 01:54:55.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Regeneration to Kazuruki]
+[16Feb2025 01:55:11.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4870ms or 97 ticks behind
+[16Feb2025 01:55:32.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[16Feb2025 01:55:33.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6752ms or 135 ticks behind
+[16Feb2025 01:55:46.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Feb2025 01:56:44.670] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[16Feb2025 01:56:44.670] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16Feb2025 01:56:46.073] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID bcc11fcc-fa08-494b-9dc1-1d2b852f95db
+[16Feb2025 01:59:24.614] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID fd3f5709-2967-4799-8e36-8deb582e6b41
+[16Feb2025 01:59:24.618] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/amigos/servidor_minecraft/./crash-reports/crash-2025-02-16_01.59.24-server.txt

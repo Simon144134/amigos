@@ -2544,9 +2544,10 @@
   },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 01:45:20 +0000",
       "has_diamond": "2025-02-16 00:48:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -2905,9 +2906,10 @@
   },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
-      "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+      "has_gold_ingot": "2025-02-16 00:32:29 +0000",
+      "has_the_recipe": "2025-02-16 01:48:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "ancient_elements:glacial_vengeance": {
     "criteria": {
@@ -2947,9 +2949,10 @@
   },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 01:42:54 +0000",
       "has_diamond": "2025-02-16 00:48:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "ironchest:recipes/decorations/chests/gold_diamond_chest": {
     "criteria": {
@@ -3079,9 +3082,10 @@
   },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_diamond_block": "2025-02-16 01:41:28 +0000"
+      "has_diamond_block": "2025-02-16 01:41:28 +0000",
+      "has_the_recipe": "2025-02-16 01:44:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {

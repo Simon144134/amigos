@@ -597,9 +597,10 @@
   },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
-      "requirement_2": "2025-02-16 00:06:54 +0000"
+      "requirement_2": "2025-02-16 00:06:54 +0000",
+      "requirement_1": "2025-02-16 01:46:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
@@ -811,9 +812,10 @@
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 01:46:06 +0000",
       "has_lots_of_items": "2025-02-16 00:08:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
@@ -1039,9 +1041,10 @@
   },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
+      "requirement_2": "2025-02-16 01:46:27 +0000",
       "requirement_1": "2025-02-16 00:11:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
@@ -2757,6 +2760,12 @@
     },
     "done": false
   },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2025-02-16 01:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-02-16 01:11:58 +0000"
@@ -2799,6 +2808,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-16 01:48:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-16 01:19:28 +0000"
@@ -2823,11 +2838,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-16 01:48:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-02-16 01:12:08 +0000"
     },
     "done": false
+  },
+  "corail_recycler:tutorial/build_recycler": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 01:46:23 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
@@ -2925,11 +2952,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-16 01:53:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-02-16 01:19:28 +0000"
     },
     "done": false
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-02-16 01:48:18 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
@@ -2952,6 +2991,12 @@
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-02-16 01:38:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 01:48:06 +0000"
     },
     "done": false
   },
@@ -3016,6 +3061,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 01:48:06 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 01:42:41 +0000"
@@ -3049,6 +3100,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-02-16 01:45:27 +0000"
     },
     "done": false
   },
@@ -3088,6 +3145,12 @@
     },
     "done": true
   },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 01:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-02-16 01:22:55 +0000",
@@ -3095,9 +3158,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-02-16 01:45:27 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 01:48:06 +0000"
     },
     "done": false
   },
