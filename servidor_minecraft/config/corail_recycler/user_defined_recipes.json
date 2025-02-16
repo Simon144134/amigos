@@ -69,6 +69,15 @@
     ]
   },
   {
+    "inputItem": "terramity:gravity_gauntlet:1",
+    "outputItems": [
+      "terramity:dimlite_nugget:2",
+      "terramity:dimlite_ingot:1",
+      "terramity:raw_cosmilite:2",
+      "terramity:anti_gravity_belt:1"
+    ]
+  },
+  {
     "inputItem": "simplyswords:diamond_katana:1",
     "outputItems": [
       "minecraft:stick:1",
