@@ -553,6 +553,7 @@
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000",
       "has_iron_ingot": "2025-02-16 00:07:00 +0000"
     },
     "done": false
@@ -587,6 +588,7 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2025-02-16 00:09:24 +0000",
+      "has_iron_shovel": "2025-02-16 00:37:14 +0000",
       "has_iron_leggings": "2025-02-16 00:07:01 +0000",
       "has_iron_pickaxe": "2025-02-16 00:08:08 +0000",
       "has_iron_helmet": "2025-02-16 00:07:00 +0000",
@@ -721,6 +723,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2025-02-16 00:09:24 +0000",
+      "has_iron_shovel": "2025-02-16 00:37:14 +0000",
       "has_iron_leggings": "2025-02-16 00:07:01 +0000",
       "has_iron_pickaxe": "2025-02-16 00:08:08 +0000",
       "has_iron_helmet": "2025-02-16 00:07:00 +0000",
@@ -991,6 +994,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-02-16 00:43:54 +0000",
       "bread": "2025-02-16 00:09:15 +0000"
     },
     "done": false
@@ -1255,9 +1259,10 @@
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2025-02-16 00:10:13 +0000"
+      "in_water": "2025-02-16 00:10:13 +0000",
+      "has_the_recipe": "2025-02-16 00:35:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
@@ -1654,7 +1659,8 @@
     "criteria": {
       "minecraft:river": "2025-02-16 00:12:22 +0000",
       "minecraft:lukewarm_ocean": "2025-02-16 00:32:08 +0000",
-      "minecraft:stony_shore": "2025-02-16 00:16:50 +0000"
+      "minecraft:stony_shore": "2025-02-16 00:16:50 +0000",
+      "minecraft:warm_ocean": "2025-02-16 00:35:57 +0000"
     },
     "done": false
   },
@@ -2293,6 +2299,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
@@ -2302,6 +2314,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
     },
     "done": false
   },
@@ -2323,9 +2341,39 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
     },
     "done": false
   },
@@ -2347,11 +2395,83 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:tutorial/build_recycler": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:tutorial/build_disk": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 00:40:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
@@ -2359,9 +2479,82 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000",
+      "has_the_recipe": "2025-02-16 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-02-16 00:31:51 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
     },
     "done": false
   },
@@ -2389,9 +2582,81 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-02-16 00:31:41 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-16 00:35:13 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
     },
     "done": false
   },
@@ -2401,9 +2666,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
     },
     "done": false
   },
@@ -2413,9 +2720,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-16 00:33:06 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
     },
     "done": false
   },
@@ -2425,9 +2750,57 @@
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-16 00:33:06 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-16 00:41:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
     },
     "done": false
   },
@@ -2437,15 +2810,33 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-16 00:41:53 +0000"
     },
     "done": false
   },
