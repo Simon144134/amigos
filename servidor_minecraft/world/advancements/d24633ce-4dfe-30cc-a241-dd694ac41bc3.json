@@ -363,7 +363,9 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "scrubland": "2025-02-16 00:05:33 +0000"
+      "scrubland": "2025-02-16 00:05:33 +0000",
+      "lush_savanna": "2025-02-16 00:50:04 +0000",
+      "lush_desert": "2025-02-16 00:50:36 +0000"
     },
     "done": false
   },
@@ -381,7 +383,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-02-16 00:05:33 +0000"
+      "scrubland": "2025-02-16 00:05:33 +0000",
+      "lush_savanna": "2025-02-16 00:50:04 +0000",
+      "lush_desert": "2025-02-16 00:50:36 +0000"
     },
     "done": false
   },
@@ -587,6 +591,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_axe": "2025-02-16 00:46:24 +0000",
       "has_iron_boots": "2025-02-16 00:09:24 +0000",
       "has_iron_shovel": "2025-02-16 00:37:14 +0000",
       "has_iron_leggings": "2025-02-16 00:07:01 +0000",
@@ -722,6 +727,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_axe": "2025-02-16 00:46:24 +0000",
       "has_iron_boots": "2025-02-16 00:09:24 +0000",
       "has_iron_shovel": "2025-02-16 00:37:14 +0000",
       "has_iron_leggings": "2025-02-16 00:07:01 +0000",
@@ -1001,15 +1007,17 @@
   },
   "mutantmonsters:root": {
     "criteria": {
+      "killed_by_something": "2025-02-16 00:47:59 +0000",
       "killed_something": "2025-02-16 00:09:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
+      "killed_by_something": "2025-02-16 00:47:59 +0000",
       "killed_something": "2025-02-16 00:09:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
@@ -1488,9 +1496,10 @@
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_white_wool": "2025-02-16 00:11:40 +0000"
+      "has_white_wool": "2025-02-16 00:11:40 +0000",
+      "has_the_recipe": "2025-02-16 00:45:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
@@ -1702,6 +1711,7 @@
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
+      "has_wood_slab": "2025-02-16 00:48:19 +0000",
       "has_planks": "2025-02-16 00:12:46 +0000"
     },
     "done": false
@@ -2295,13 +2305,20 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:pillager": "2025-02-16 00:31:43 +0000",
-      "specialmobs:zombie": "2025-02-16 00:21:06 +0000"
+      "specialmobs:zombie": "2025-02-16 00:21:06 +0000",
+      "minecraft:vindicator": "2025-02-16 00:47:41 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-02-16 00:45:07 +0000"
     },
     "done": false
   },
@@ -2317,9 +2334,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 01:01:55 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
     },
     "done": false
   },
@@ -2332,6 +2367,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
     },
     "done": false
   },
@@ -2350,6 +2391,18 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-02-16 00:47:32 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
     },
     "done": false
   },
@@ -2377,11 +2430,36 @@
     },
     "done": false
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "minecraft:pillager": "2025-02-16 00:31:43 +0000"
+      "has_book": "2025-02-16 00:51:14 +0000"
     },
     "done": false
+  },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2025-02-16 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-02-16 00:31:43 +0000",
+      "minecraft:vindicator": "2025-02-16 00:47:41 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-16 00:55:35 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
@@ -2416,6 +2494,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-16 00:51:14 +0000"
     },
     "done": false
   },
@@ -2467,6 +2551,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-16 00:55:31 +0000"
+    },
+    "done": false
+  },
   "corail_recycler:tutorial/build_disk": {
     "criteria": {
       "coded_trigger": "2025-02-16 00:40:28 +0000"
@@ -2488,6 +2590,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
     },
     "done": false
   },
@@ -2528,6 +2636,12 @@
     },
     "done": false
   },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-16 00:35:46 +0000"
@@ -2558,6 +2672,18 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-16 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
@@ -2582,9 +2708,45 @@
     },
     "done": false
   },
+  "ancient_elements:glacial_vengeance": {
+    "criteria": {
+      "glacial_vengeance": "2025-02-16 00:47:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-16 00:47:32 +0000"
     },
     "done": false
   },
@@ -2593,6 +2755,12 @@
       "has_wheat": "2025-02-16 00:35:15 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
@@ -2606,9 +2774,33 @@
     },
     "done": false
   },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-02-16 01:00:10 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-16 00:55:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 01:01:55 +0000"
     },
     "done": false
   },
@@ -2618,9 +2810,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 01:01:55 +0000"
+    },
+    "done": false
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-02-16 00:31:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 00:51:14 +0000"
     },
     "done": false
   },
@@ -2660,9 +2870,39 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-16 00:58:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-16 00:55:31 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-16 00:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-16 00:48:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-16 00:48:19 +0000"
     },
     "done": false
   },
@@ -2671,6 +2911,12 @@
       "has_string": "2025-02-16 00:37:23 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-16 00:55:35 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
@@ -2693,6 +2939,18 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 00:51:14 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
     },
     "done": false
   },
@@ -2744,6 +3002,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
@@ -2774,6 +3038,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-16 00:51:26 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-02-16 00:37:27 +0000"
@@ -2788,7 +3058,14 @@
   },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "has_string": "2025-02-16 00:37:23 +0000"
+      "has_string": "2025-02-16 00:37:23 +0000",
+      "has_the_recipe": "2025-02-16 00:45:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 01:01:55 +0000"
     },
     "done": false
   },
@@ -2804,9 +3081,21 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-16 00:52:53 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-16 01:00:10 +0000"
     },
     "done": false
   },
@@ -2816,15 +3105,45 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 00:51:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-16 01:00:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-16 00:47:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-16 00:37:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-16 01:00:10 +0000"
     },
     "done": false
   },

@@ -1120,7 +1120,8 @@
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
-      "requirement_2": "2025-02-16 00:06:11 +0000"
+      "requirement_2": "2025-02-16 00:06:11 +0000",
+      "requirement_1": "2025-02-16 00:54:40 +0000"
     },
     "done": false
   },
@@ -1331,6 +1332,7 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2025-02-16 00:17:33 +0000",
+      "has_iron_pickaxe": "2025-02-16 00:54:20 +0000",
       "has_iron_helmet": "2025-02-16 00:09:26 +0000",
       "has_iron_sword": "2025-02-16 00:06:50 +0000"
     },
@@ -1339,6 +1341,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2025-02-16 00:17:33 +0000",
+      "has_iron_pickaxe": "2025-02-16 00:54:20 +0000",
       "has_iron_helmet": "2025-02-16 00:09:26 +0000",
       "has_iron_sword": "2025-02-16 00:06:50 +0000"
     },
@@ -1521,7 +1524,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-16 00:46:16 +0000",
+      "minecraft:creeper": "2025-02-16 00:44:15 +0000",
       "minecraft:husk": "2025-02-16 00:21:02 +0000",
+      "minecraft:stray": "2025-02-16 00:46:16 +0000",
       "minecraft:zombie": "2025-02-16 00:21:02 +0000"
     },
     "done": false
@@ -1529,7 +1535,214 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2025-02-16 00:21:02 +0000",
-      "specialmobs:zombie": "2025-02-16 00:21:02 +0000"
+      "specialmobs:creeper": "2025-02-16 00:44:15 +0000",
+      "specialmobs:zombie": "2025-02-16 00:21:02 +0000",
+      "specialmobs:skeleton": "2025-02-16 00:46:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-16 00:59:52 +0000",
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-16 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-16 00:51:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-02-16 00:59:51 +0000",
+      "!bit13": "2025-02-16 00:59:51 +0000",
+      "!bit14": "2025-02-16 00:59:51 +0000",
+      "!bit11": "2025-02-16 00:59:51 +0000",
+      "!bit12": "2025-02-16 00:59:51 +0000",
+      "not_target": "2025-02-16 00:59:51 +0000",
+      "!bit10": "2025-02-16 00:59:51 +0000",
+      "!bit9": "2025-02-16 00:59:51 +0000",
+      "!bit8": "2025-02-16 00:59:51 +0000",
+      "!bit7": "2025-02-16 00:59:51 +0000",
+      "!bit6": "2025-02-16 00:59:51 +0000",
+      "!bit5": "2025-02-16 00:59:51 +0000",
+      "!bit4": "2025-02-16 00:59:51 +0000",
+      "!bit3": "2025-02-16 00:59:51 +0000",
+      "!bit2": "2025-02-16 00:59:51 +0000",
+      "!bit1": "2025-02-16 00:59:51 +0000",
+      "!bit0": "2025-02-16 00:59:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-16 00:50:17 +0000",
+      "diamond_chestplate": "2025-02-16 00:51:48 +0000",
+      "diamond_boots": "2025-02-16 00:51:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:50:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-16 00:52:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:50:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:50:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:50:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-02-16 00:46:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
     },
     "done": false
   },
@@ -1539,15 +1752,141 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-16 00:52:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-02-16 00:38:17 +0000"
     },
     "done": false
   },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-16 00:46:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-16 00:38:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-02-16 00:53:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-16 00:46:17 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-16 00:46:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:50:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-16 00:50:14 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-16 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-16 00:54:40 +0000"
     },
     "done": false
   },
