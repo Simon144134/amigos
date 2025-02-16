@@ -951,7 +951,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-02-16 00:20:06 +0000",
-      "baked_potato": "2025-02-16 00:08:54 +0000"
+      "baked_potato": "2025-02-16 00:08:54 +0000",
+      "bread": "2025-02-16 01:03:18 +0000"
     },
     "done": false
   },
@@ -1889,6 +1890,7 @@
       "minecraft:creeper": "2025-02-16 00:21:04 +0000",
       "specialmobs:giantskeleton": "2025-02-16 00:48:12 +0000",
       "minecraft:pillager": "2025-02-16 00:33:01 +0000",
+      "specialmobs:bruteskeleton": "2025-02-16 01:18:43 +0000",
       "specialmobs:zombie": "2025-02-16 00:21:04 +0000",
       "minecraft:vindicator": "2025-02-16 00:33:05 +0000",
       "specialmobs:skeleton": "2025-02-16 00:31:50 +0000"
@@ -2517,9 +2519,10 @@
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_logs": "2025-02-16 00:42:47 +0000"
+      "has_logs": "2025-02-16 00:42:47 +0000",
+      "has_the_recipe": "2025-02-16 01:13:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
@@ -2724,9 +2727,10 @@
   },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_netherite_scrap": "2025-02-16 00:53:19 +0000"
+      "has_netherite_scrap": "2025-02-16 00:53:19 +0000",
+      "has_the_recipe": "2025-02-16 01:21:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
@@ -2743,6 +2747,163 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-16 00:59:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-16 01:11:58 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-16 01:19:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-16 01:12:08 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-16 01:12:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-02-16 01:19:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-16 01:19:28 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-16 01:12:01 +0000",
+      "has_the_recipe": "2025-02-16 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-16 01:22:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
     },
     "done": false
   },
