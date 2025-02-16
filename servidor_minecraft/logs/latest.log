@@ -90,3 +90,104 @@
 [16Feb2025 00:02:19.380] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=211, y=-10, z=-574}
 [16Feb2025 00:02:19.937] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=346, y=-9, z=-567}
 [16Feb2025 00:02:33.694] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.118] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.119] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.119] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.119] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.262] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.263] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.263] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:50.264] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:55.953] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=36, y=29, z=-611}
+[16Feb2025 00:03:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Barrel Booty]
+[16Feb2025 00:03:07.720] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-255, y=-6, z=3}
+[16Feb2025 00:03:13.845] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=31, y=36, z=195}
+[16Feb2025 00:03:14.181] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-61, y=-16, z=194}
+[16Feb2025 00:03:15.120] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-109, y=-4, z=200}
+[16Feb2025 00:03:15.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement ['X' Marks the Spot]
+[16Feb2025 00:03:31.162] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=38, y=-48, z=244}
+[16Feb2025 00:03:31.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=96, y=21, z=240}
+[16Feb2025 00:03:41.397] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-199, y=-14, z=267}
+[16Feb2025 00:03:43.017] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-284, y=30, z=173}
+[16Feb2025 00:03:43.168] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-274, y=-6, z=242}
+[16Feb2025 00:03:45.697] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:03:45.697] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:03:45.698] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:03:45.698] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:03:49.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-275, y=0, z=274}
+[16Feb2025 00:03:53.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.242.89.163:54705] logged in with entity id 3818 at (-25.5, 110.0, -33.5)
+[16Feb2025 00:03:53.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[16Feb2025 00:03:53.556] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[16Feb2025 00:03:53.557] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[16Feb2025 00:03:53.557] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[16Feb2025 00:03:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Choose Your Class]
+[16Feb2025 00:03:53.573] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[16Feb2025 00:03:53.669] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Terramity]
+[16Feb2025 00:03:54.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Recycler]
+[16Feb2025 00:03:55.404] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[16Feb2025 00:04:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Barrel Booty]
+[16Feb2025 00:04:21.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement ['X' Marks the Spot]
+[16Feb2025 00:04:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has completed the challenge [Berserk Class]
+[16Feb2025 00:04:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[16Feb2025 00:04:47.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[16Feb2025 00:04:47.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[16Feb2025 00:04:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Tools of the Trade]
+[16Feb2025 00:05:21.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Quaint Scribe]
+[16Feb2025 00:05:32.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chik3nBl4ck[/10.242.254.200:54706] logged in with entity id 4676 at (-35.5, 119.0, -38.5)
+[16Feb2025 00:05:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck joined the game
+[16Feb2025 00:05:32.363] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Chik3nBl4ck
+[16Feb2025 00:05:32.363] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Chik3nBl4ck'
+[16Feb2025 00:05:32.364] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Chik3nBl4ck'
+[16Feb2025 00:05:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Choose Your Class]
+[16Feb2025 00:05:32.380] [Server thread/INFO] [Jade/]: Syncing config to Chik3nBl4ck (d24633ce-4dfe-30cc-a241-dd694ac41bc3)
+[16Feb2025 00:05:32.448] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Terramity]
+[16Feb2025 00:05:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Amateur Archaeologist]
+[16Feb2025 00:05:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Recycler]
+[16Feb2025 00:05:33.592] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Chik3nBl4ck
+[16Feb2025 00:06:08.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [Paladin Class]
+[16Feb2025 00:06:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Acquire Hardware]
+[16Feb2025 00:06:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 16 [Bread] to 4]
+[16Feb2025 00:06:14.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Feb2025 00:06:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Disme A Dozen]
+[16Feb2025 00:06:19.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Sweet Dreams]
+[16Feb2025 00:06:26.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=112, z=-40}
+[16Feb2025 00:06:26.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=112, z=-39}
+[16Feb2025 00:06:37.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Feb2025 00:06:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Chik3nBl4ck a server operator]
+[16Feb2025 00:06:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Teleported Chik3nBl4ck to Graniter82a]
+[16Feb2025 00:06:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[16Feb2025 00:06:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement ['X' Marks the Spot]
+[16Feb2025 00:06:54.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Acquire Hardware]
+[16Feb2025 00:06:56.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Teleported Chik3nBl4ck to Graniter82a]
+[16Feb2025 00:06:59.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement ['X' Marks the Spot]
+[16Feb2025 00:07:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Acquire Hardware]
+[16Feb2025 00:07:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[16Feb2025 00:07:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Disme A Dozen]
+[16Feb2025 00:07:28.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Acquire Hardware]
+[16Feb2025 00:07:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Isn't It Iron Pick]
+[16Feb2025 00:08:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Isn't It Iron Pick]
+[16Feb2025 00:08:16.138] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Mine? Mine? Mine?]
+[16Feb2025 00:09:05.290] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Mine? Mine? Mine?]
+[16Feb2025 00:09:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Gamerule playersSleepingPercentage is now set to: 25]
+[16Feb2025 00:09:24.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Sanity15
+[16Feb2025 00:09:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Suit Up]
+[16Feb2025 00:09:36.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Sanity15]
+[16Feb2025 00:09:37.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[16Feb2025 00:09:42.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[16Feb2025 00:10:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Disme A Dozen]
+[16Feb2025 00:10:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was killed
+[16Feb2025 00:10:18.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Killed Sanity15]
+[16Feb2025 00:10:31.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Teleported Chik3nBl4ck to Graniter82a]
+[16Feb2025 00:10:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Barrel Booty]
+[16Feb2025 00:10:39.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Barrel Booty]
+[16Feb2025 00:10:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Disme A Dozen]
+[16Feb2025 00:10:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Kazuruki]
+[16Feb2025 00:11:08.687] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Mine? Mine? Mine?]
+[16Feb2025 00:11:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Diamonds!]
+[16Feb2025 00:11:20.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Diamonds!]
+[16Feb2025 00:11:22.576] [dimthread_server_overworld/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Feb2025 00:11:48.783] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Mine? Mine? Mine?]
+[16Feb2025 00:11:56.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck fell from a high place
+[16Feb2025 00:12:00.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Close Quarters]
+[16Feb2025 00:12:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule commandBlockOutput is now set to: false]
+[16Feb2025 00:12:37.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Amateur Archaeologist]
