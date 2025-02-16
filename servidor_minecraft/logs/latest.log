@@ -4325,3 +4325,118 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16Feb2025 01:27:25.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
 [16Feb2025 01:27:27.997] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was shot by Aetherial Glaze
 [16Feb2025 01:27:33.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 185.500000, 159.000000, -878.500000]
+[16Feb2025 01:27:41.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Can Someone Ventilate]
+[16Feb2025 01:29:11.122] [dimthread_server_overworld/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Feb2025 01:29:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was doomed to fall
+[16Feb2025 01:29:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 189.500000, 148.000000, -878.500000]
+[16Feb2025 01:30:11.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[16Feb2025 01:30:57.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Feb2025 01:31:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [I Reject My Humanity!]
+[16Feb2025 01:31:58.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Stone] to Kazuruki]
+[16Feb2025 01:32:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Stone Age]
+[16Feb2025 01:32:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[16Feb2025 01:33:10.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 126 [Dirt] to Graniter82a]
+[16Feb2025 01:33:35.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Stone] to Kazuruki]
+[16Feb2025 01:34:10.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was electrocuted
+[16Feb2025 01:34:15.188] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Trial Guardian
+[16Feb2025 01:34:23.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[16Feb2025 01:34:29.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Feb2025 01:34:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 178.500000, 39.000000, -871.500000]
+[16Feb2025 01:34:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was electrocuted
+[16Feb2025 01:34:49.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Feb2025 01:34:53.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Creative Mode]
+[16Feb2025 01:35:02.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Survival Mode]
+[16Feb2025 01:35:08.127] [dimthread_server_overworld/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Feb2025 01:35:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Feb2025 01:35:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Regeneration to Kazuruki]
+[16Feb2025 01:35:48.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[16Feb2025 01:35:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was blown up by Dungeon Effigy
+[16Feb2025 01:36:51.545] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was shot by Dungeon Sentry
+[16Feb2025 01:36:56.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a boiled away whilst trying to escape Trial Guardian
+[16Feb2025 01:37:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was simmered in stygian blood
+[16Feb2025 01:37:05.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Creative Mode]
+[16Feb2025 01:37:12.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was simmered in stygian blood
+[16Feb2025 01:37:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was simmered in stygian blood
+[16Feb2025 01:37:20.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Feb2025 01:37:20.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Cover Me with Diamonds]
+[16Feb2025 01:37:27.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[16Feb2025 01:37:28.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Feb2025 01:38:13.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Stone] to Kazuruki]
+[16Feb2025 01:38:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [Centennial]
+[16Feb2025 01:39:27.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 126 [Dirt] to Graniter82a]
+[16Feb2025 01:39:42.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[16Feb2025 01:39:50.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a withered away whilst fighting Dungeon Effigy
+[16Feb2025 01:40:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Survival Mode]
+[16Feb2025 01:40:14.918] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=64, y=-52, z=-1107}
+[16Feb2025 01:40:15.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=342, y=-41, z=-1120}
+[16Feb2025 01:40:17.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[16Feb2025 01:40:22.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was doomed to fall by Dungeon Sentry
+[16Feb2025 01:40:29.650] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Dungeon Effigy
+[16Feb2025 01:40:36.000] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Dungeon Effigy
+[16Feb2025 01:40:38.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Feb2025 01:41:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Feb2025 01:41:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[16Feb2025 01:41:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Creative Mode]
+[16Feb2025 01:41:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Survival Mode]
+[16Feb2025 01:42:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [What a Deal!]
+[16Feb2025 01:42:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Feb2025 01:42:46.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[16Feb2025 01:42:51.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Feb2025 01:42:56.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[16Feb2025 01:43:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[16Feb2025 01:43:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Feb2025 01:43:36.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[16Feb2025 01:44:20.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was doomed to fall
+[16Feb2025 01:44:34.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:34.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:34.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:34.223] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:34.303] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:37.715] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:37.715] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:37.715] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:37.716] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:44:39.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Feb2025 01:44:46.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=212, y=-4, z=-1261}
+[16Feb2025 01:44:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a fell off a ladder
+[16Feb2025 01:44:58.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[16Feb2025 01:45:15.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kazuruki) moved too quickly! 2.004482828008122,0.0,-10.064039511591545
+[16Feb2025 01:45:15.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kazuruki) moved too quickly! 1.9536254151234402,0.0,-10.451112422983897
+[16Feb2025 01:45:15.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kazuruki) moved too quickly! 1.9034257990327887,0.0,-10.83923219375697
+[16Feb2025 01:45:15.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kazuruki) moved too quickly! 1.8554336137384553,0.0,-11.228440977715536
+[16Feb2025 01:45:15.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kazuruki) moved too quickly! 1.811584900691571,0.0,-11.618723497510928
+[16Feb2025 01:45:15.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kazuruki) moved too quickly! 1.7741029183917476,0.0,-12.009928629724527
+[16Feb2025 01:45:20.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:20.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:20.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:20.720] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:20.720] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:20.721] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:20.721] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:21.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=446, y=-51, z=-1346}
+[16Feb2025 01:45:22.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9279ms or 185 ticks behind
+[16Feb2025 01:45:25.783] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:25.910] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:25.911] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:25.911] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 01:45:35.623] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=466, y=-5, z=-1294}
+[16Feb2025 01:45:35.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=464, y=-20, z=-1309}
+[16Feb2025 01:45:36.871] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=467, y=-8, z=-1207}
+[16Feb2025 01:45:39.532] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=471, y=-29, z=-1196}
+[16Feb2025 01:45:42.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5581ms or 111 ticks behind
+[16Feb2025 01:45:44.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=491, y=-18, z=-1219}
+[16Feb2025 01:45:46.130] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=491, y=-13, z=-1355}
+[16Feb2025 01:45:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Sweet Dreams]
+[16Feb2025 01:46:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Penteconter]
+[16Feb2025 01:46:05.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7446ms or 148 ticks behind
+[16Feb2025 01:46:11.795] [dimthread_server_overworld/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Feb2025 01:46:23.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [A way to recycle]
+[16Feb2025 01:46:27.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6765ms or 135 ticks behind
+[16Feb2025 01:46:50.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7959ms or 159 ticks behind
+[16Feb2025 01:47:10.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5853ms or 117 ticks behind
+[16Feb2025 01:47:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Creative Mode]
+[16Feb2025 01:47:31.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Your first recycle]
+[16Feb2025 01:47:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Teleported Chik3nBl4ck to Graniter82a]
+[16Feb2025 01:47:33.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7835ms or 156 ticks behind
+[16Feb2025 01:47:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chik3nBl4ck: Set own game mode to Survival Mode]
+[16Feb2025 01:48:02.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

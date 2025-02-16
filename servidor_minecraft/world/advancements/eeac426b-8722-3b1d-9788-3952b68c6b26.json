@@ -515,9 +515,10 @@
   },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 01:27:06 +0000",
       "has_iron_ingot": "2025-02-16 00:06:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
@@ -1104,9 +1105,10 @@
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 01:22:53 +0000",
       "has_diamond": "2025-02-16 00:11:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
@@ -1762,7 +1764,8 @@
     "criteria": {
       "minecraft:lukewarm_ocean": "2025-02-16 00:43:34 +0000",
       "minecraft:stony_shore": "2025-02-16 00:16:51 +0000",
-      "minecraft:warm_ocean": "2025-02-16 00:36:27 +0000"
+      "minecraft:warm_ocean": "2025-02-16 00:36:27 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-16 01:41:26 +0000"
     },
     "done": false
   },
@@ -1879,6 +1882,7 @@
       "minecraft:pillager": "2025-02-16 00:33:01 +0000",
       "minecraft:skeleton": "2025-02-16 00:31:50 +0000",
       "minecraft:vindicator": "2025-02-16 00:33:05 +0000",
+      "minecraft:spider": "2025-02-16 01:32:22 +0000",
       "minecraft:husk": "2025-02-16 00:21:04 +0000",
       "minecraft:stray": "2025-02-16 00:31:50 +0000",
       "minecraft:zombie": "2025-02-16 00:21:04 +0000"
@@ -1887,10 +1891,13 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
+      "specialmobs:giantzombie": "2025-02-16 01:32:30 +0000",
+      "specialmobs:pirateskeleton": "2025-02-16 01:42:32 +0000",
       "minecraft:creeper": "2025-02-16 00:21:04 +0000",
       "specialmobs:giantskeleton": "2025-02-16 00:48:12 +0000",
       "minecraft:pillager": "2025-02-16 00:33:01 +0000",
       "specialmobs:bruteskeleton": "2025-02-16 01:18:43 +0000",
+      "specialmobs:hungryspider": "2025-02-16 01:32:22 +0000",
       "specialmobs:zombie": "2025-02-16 00:21:04 +0000",
       "minecraft:vindicator": "2025-02-16 00:33:05 +0000",
       "specialmobs:skeleton": "2025-02-16 00:31:50 +0000"
@@ -2768,15 +2775,69 @@
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-16 01:19:28 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-02-16 01:12:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
     },
     "done": false
   },
@@ -2798,15 +2859,57 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/netherite": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-16 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
     },
     "done": false
   },
@@ -2834,6 +2937,30 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-16 01:38:43 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
@@ -2853,6 +2980,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
@@ -2865,9 +2998,51 @@
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
     },
     "done": false
   },
@@ -2889,15 +3064,40 @@
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 01:21:21 +0000"
     },
     "done": false
   },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2025-02-16 01:27:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 01:22:55 +0000",
       "has_lapis_block": "2025-02-16 01:22:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-16 01:42:41 +0000"
     },
     "done": false
   },

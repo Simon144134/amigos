@@ -1679,7 +1679,8 @@
       "minecraft:river": "2025-02-16 00:12:22 +0000",
       "minecraft:lukewarm_ocean": "2025-02-16 00:32:08 +0000",
       "minecraft:stony_shore": "2025-02-16 00:16:50 +0000",
-      "minecraft:warm_ocean": "2025-02-16 00:35:57 +0000"
+      "minecraft:warm_ocean": "2025-02-16 00:35:57 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-16 01:23:22 +0000"
     },
     "done": false
   },
@@ -2328,78 +2329,6 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 01:22:42 +0000"
-    },
-    "done": false
-  },
   "travelersbackpack:recipes/misc/bee": {
     "criteria": {
       "has_honeycomb": "2025-02-16 01:05:04 +0000"
@@ -2412,9 +2341,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-16 01:41:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-02-16 01:17:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-16 01:41:08 +0000"
     },
     "done": false
   },
@@ -2514,6 +2455,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-16 01:26:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
@@ -2549,6 +2496,15 @@
       "has_tripwire_hook": "2025-02-16 01:07:36 +0000"
     },
     "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-16 01:37:20 +0000",
+      "diamond_helmet": "2025-02-16 01:27:30 +0000",
+      "diamond_chestplate": "2025-02-16 01:26:33 +0000",
+      "diamond_boots": "2025-02-16 01:29:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
@@ -2651,6 +2607,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-16 01:26:32 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 01:03:20 +0000"
@@ -2675,6 +2637,12 @@
     },
     "done": false
   },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2025-02-16 01:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_honeycomb": "2025-02-16 01:05:04 +0000",
@@ -2685,6 +2653,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-16 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
     },
     "done": false
   },
@@ -2703,6 +2677,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-16 00:37:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
     },
     "done": false
   },
@@ -2736,6 +2716,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-16 01:33:09 +0000"
+    },
+    "done": false
+  },
   "corail_recycler:tutorial/build_disk": {
     "criteria": {
       "coded_trigger": "2025-02-16 00:40:28 +0000"
@@ -2760,6 +2746,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-16 00:48:37 +0000"
@@ -2775,6 +2767,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-16 00:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
     },
     "done": false
   },
@@ -2863,6 +2861,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
+    },
+    "done": false
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-02-16 00:49:20 +0000"
@@ -2910,6 +2914,12 @@
       "glacial_vengeance": "2025-02-16 00:47:37 +0000"
     },
     "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-16 01:26:32 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/decorations/gadgets/frame/diamond": {
     "criteria": {
@@ -3067,6 +3077,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-16 01:41:28 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-16 00:35:15 +0000"
@@ -3125,6 +3141,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 00:32:29 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
     },
     "done": false
   },
@@ -3266,9 +3288,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-16 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-16 01:27:30 +0000"
     },
     "done": false
   },
@@ -3293,6 +3327,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 00:35:46 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-02-16 01:27:30 +0000"
     },
     "done": false
   },
@@ -3411,6 +3451,12 @@
       "has_bamboo": "2025-02-16 01:00:10 +0000"
     },
     "done": false
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-16 01:38:26 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {

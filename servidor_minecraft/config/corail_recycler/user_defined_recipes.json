@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "inputItem": "terramity:anvil_talisman:1",
+    "outputItems": [
+      "minecraft:iron_ingot:2",
+      "terramity:fairy_dust:2",
+      "minecraft:anvil:1"
+    ]
+  }
+]
