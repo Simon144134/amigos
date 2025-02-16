@@ -1,218 +1,92 @@
-[15Feb2025 22:25:59.713] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Feb2025 22:25:59.745] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[15Feb2025 22:26:03.567] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Feb2025 22:26:03.685] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/amigos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Feb2025 22:26:04.913] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 22:26:04.914] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 22:26:04.915] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 22:26:04.916] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/amigos/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[15Feb2025 22:26:05.809] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15Feb2025 22:26:05.820] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
-[15Feb2025 22:26:15.325] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Feb2025 22:26:15.479] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
-[15Feb2025 22:26:15.784] [main/ERROR] [mixin/]: Mixin config cameraoverhaul.mixins.json does not specify "minVersion" property
-[15Feb2025 22:26:16.099] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
-[15Feb2025 22:26:16.262] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Feb2025 22:26:16.433] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 221 options available, 0 override(s) found
-[15Feb2025 22:26:16.469] [main/WARN] [mixin/]: Reference map 'expanded_ecosphere-forge-refmap.json' for wwoo.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:16.510] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:16.638] [main/WARN] [ImmediatelyFast/]: Scorched Guns 2 mod detected. Force disabling HUD Batching optimization.
-[15Feb2025 22:26:16.729] [main/INFO] [Puzzles Lib/]: Loading 176 mods:
-	- alexsmobs 1.22.9
-	- ancient_elements 1.3.4
-	- appleskin 2.5.1+mc1.20.1
-	- architectury 9.2.14
-	- artifacts 9.5.13
-		\-- expandability 9.0.4
-	- ati_structures 1.1.0
-	- balm 7.3.14
-		\-- kuma_api 20.1.9-SNAPSHOT
-	- bettercombat 1.8.6+1.20.1
-	- betterdeserttemples 1.20-Forge-3.0.3
-	- betterdungeons 1.20-Forge-4.0.4
-	- betterfpsdist 1.20.1-6.0
-	- bettermineshafts 1.20-Forge-4.0.4
-	- betterthirdperson 1.9.0
-	- biomesoplenty 18.0.0.592
-	- bookshelf 20.2.13
-	- born_in_chaos_v1 1.6.2
-	- bosses_of_mass_destruction 1.1.2
-	- caelus 3.2.0+1.20.1
-	- call_of_yucutan 1.0.13
-	- cameraoverhaul 2.0.0-forge+mc.1.19.3-1.20.5
-	- carryon 2.1.2.7
-		\-- mixinextras 0.2.0-beta.6
-	- cataclysm 2.43
-	- cerbons_api 1.1.0
-	- citadel 2.6.1
-	- cloth_config 11.1.136
-	- collective 7.78
-	- comforts 6.4.0+1.20.1
-		\-- spectrelib 0.13.15+1.20.1
-	- condensedores 1.0.0
-	- continents 1.1.5
-	- copycats 2.2.0+mc.1.20.1-forge
-	- corail_recycler 5.9.1
-	- corgilib 4.0.3.3
-	- coroutil 1.20.1-1.3.7
-	- corpse 1.20.1-1.0.20
-	- cosmeticarmorreworked 1.20.1-v1a
-	- create 0.5.1.j
-		\-- flywheel 0.6.11-13
-	- create_copper_and_zinc 1.6.0
-	- create_sa 2.0.5
-	- create_sabers 1.3.0
-	- createaddition 1.20.1-1.2.5
-	- createcontraptionterminals 1.1.0
-	- cristellib 1.1.6
-	- crust 2.4.8
-	- ctov 3.4.11
-	- cucumber 7.0.13
-	- cupboard 1.20.1-2.7
-	- curios 5.10.0+1.20.1
-	- cyclic 1.12.11
-	- deeperdarker 1.3.3
-	- dimthread 1.2.1
-	- dungeoncrawl 2.3.15
-	- dungeons_arise 2.1.58-1.20.x
-	- dungeons_arise_seven_seas 1.0.2
-	- durabilitytooltip 1.1.5
-	- dynamic_fps 3.7.7
-	- dynamicvillage 0.4
-	- easy_villagers 1.20.1-1.1.23
-	- easyanvils 8.0.2
-	- elevatorid 1.20.1-lex-1.9
-	- embeddium 0.3.31+mc1.20.1
-		\-- rubidium 0.7.1
-	- enchantinginfuser 8.0.3
-	- enchdesc 17.1.19
-	- endertrigon 1.20.1-1.1
-		\-- crackerslib 1.20.1-0.3.2.1
-	- enhancedcelestials 1.20.1-5.0.2.3
-	- epicpaladins 1.0.0-1.20.1-forge
-	- expanded_ecosphere 3.2.4
-	- fallingleaves 2.1.0
-	- fallingtrees 0.13.1
-	- farmersdelight 1.20.1-1.2.6
-	- fastboot 1.2
-	- ferritecore 6.0.1
-	- flib 0.0.14
-	- forge 47.3.12
-	- framework 0.6.16
-	- fzzy_config 0.6.3+1.20.1+forge
-	- geckolib 4.7
-	- grapplemod 1.20.1-v13
-	- guardvillagers 1.20.1-1.6.10
-	- hyperremaster 1.0.0
-	- iammusicplayer 3.22.0-alpha.5
-	- immediatelyfast 1.3.4+1.20.4
-	- immersive_armors 1.6.1+1.20.1
-	- incendium 5.3.5
-	- infernalmobs 1.20.1.6
-	- infinitetrading 4.5
-	- inventoryhud 3.4.26
-	- inventorypets 2.1.3
-	- inventoryprofilesnext 1.10.14
-	- ironchest 1.20.1-14.4.4
-	- ironfurnaces 4.1.6
-	- jade 11.12.3+forge
-	- jei 15.20.0.106
-	- jet_and_elias_armors 1.0.0
-	- journeymap 5.10.3
-	- jrftl 1.6.0
-	- jsonthings 0.9.9
-	- justzoom 2.0.0
-	- konkrete 1.8.0
-	- kotlinforforge 4.11.0
-	- libipn 4.0.2
-	- libraryferret 4.0.0
-	- lionfishapi 2.4
-	- lithostitched 1.4
-	- lootintegrations 1.20.1-4.0
-	- lootr 0.7.35.90
-	- luckys_armory 0.4.0.1
-	- mantle 1.11.36
-	- matc 1.6.0
-	- minecraft 1.20.1
-	- mowziesmobs 1.6.4
-	- mr_dungeons_andtaverns 3.0.3.f
-	- mr_veinminer 1.1.0
-	- mutantmonsters 8.0.7
-	- myserveriscompatible 1.0
-	- mysticalagriculture 7.0.16
-	- netherportalfix 13.0.1
-	- otyacraftengine 3.7.0-alpha.2
-	- overloadedarmorbar 1.20.1-1
-	- pandalib 0.5.1
-	- paraglider 20.1.3
-	- particle_core 0.2.5+1.20.1+forge
-		\-- conditional_mixin 0.6.2
-	- playeranimator 1.0.2-rc1+1.20
-	- protection_pixel 1.1.5
-	- puzzleslib 8.1.25
-		\-- puzzlesaccessapi 8.0.7
-	- railways 1.6.7+forge-mc1.20.1
-	- rpgsmw 9.21.20.1
-	- scguns 0.3.4.1
-	- simpleplanes 1.20.1-5.3.3
-	- simplyswords 1.56.0-1.20.1
-	- skyvillages 1.0.4
-	- smallships 2.0.0-b1.4
-	- sodiumdynamiclights 1.0.9
-		\-- fabric_api_base 0.4.31+ef105b4977
-	- sodiumoptionsapi 1.0.10
-	- sophisticatedbackpacks 3.23.5.1200
-	- sophisticatedcore 1.2.7.860
-	- soul_like_armors_reworked 140
-	- spartanshields 3.1.1
-	- specialmobs 1.20.1-3.1.10
-	- stackablepotions 1.0.0
-	- stackrefill 4.5
-	- storagedrawers 12.9.13
-	- superbarrels 119
-	- supermartijn642configlib 1.1.8
-	- supermartijn642corelib 1.1.18
-	- t_and_t 0.0NONE
-	- tconstruct 3.9.1.19
-	- terrablender 3.0.1.7
-	- terralith 2.5.4
-	- terramity 0.9.8
-	- tinkers_katanas 1.3.1
-	- tinkers_things 1.3.0
-	- tinkers_thinking 0.1.5.0
-	- tinkerslevellingaddon 1.4.1
-	- tinkervillager 1.0.0
-	- tleveling 0.2.4-1.20.1
-	- toms_storage 1.7.0
-	- toolleveling 1.20.1-2.0.0
-	- totw_modded 1.0.5
-	- travelersbackpack 9.1.16
-	- twilightforest 4.3.2508
-	- vanillaplustools 1.20-1.0
-	- visualworkbench 8.0.0
-	- watut 1.20.1-1.1.3
-	- waystones 14.1.6
-	- wwoo_forge 2.0.0
-	- yet_another_config_lib_v3 3.6.2+1.20.1-forge
-	- yungsapi 1.20-Forge-4.0.6
-[15Feb2025 22:26:16.753] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:16.757] [main/WARN] [mixin/]: Reference map 'grapplemod.refmap.json' for grapplemod.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.053] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.107] [main/WARN] [mixin/]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.213] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.298] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.330] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.345] [main/WARN] [mixin/]: Reference map 'mixins.create_sa.refmap.json' for mixins.create_sa.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:17.348] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Feb2025 22:26:19.974] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[15Feb2025 22:26:19.975] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[15Feb2025 22:26:21.396] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER
-[15Feb2025 22:26:21.398] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Camera (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER)
-[15Feb2025 22:26:21.398] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Camera was not found cameraoverhaul.mixins.json:CameraMixin
-[15Feb2025 22:26:21.402] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
-[15Feb2025 22:26:21.405] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
-[15Feb2025 22:26:21.406] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found cameraoverhaul.mixins.json:GameRendererMixin
-[15Feb2025 22:26:21.455] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[15Feb2025 22:26:21.455] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
-[15Feb2025 22:26:21.456] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found cameraoverhaul.mixins.json:LocalPlayerMixin
-[15Feb2025 22:26:21.771] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16Feb2025 00:00:05.432] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=209, y=-9, z=-245}
+[16Feb2025 00:00:05.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ff45027[id=<null>,name=Chik3nBl4ck,properties={},legacy=false] (/10.242.254.200:56704) lost connection: Timed out
+[16Feb2025 00:00:06.407] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[16Feb2025 00:00:08.312] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:09.541] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=129, y=18, z=-265}
+[16Feb2025 00:00:10.084] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=29, y=-40, z=-260}
+[16Feb2025 00:00:14.261] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.262] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.262] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.263] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.405] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.406] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.406] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:14.407] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:00:15.135] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=96, y=-34, z=-275}
+[16Feb2025 00:00:25.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [It's an Emu!!!]
+[16Feb2025 00:00:26.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/10.242.33.100:62268] logged in with entity id 1283 at (-26.5, 110.0, -22.5)
+[16Feb2025 00:00:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[16Feb2025 00:00:26.835] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Sanity15
+[16Feb2025 00:00:26.836] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Sanity15'
+[16Feb2025 00:00:26.836] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Sanity15'
+[16Feb2025 00:00:26.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Choose Your Class]
+[16Feb2025 00:00:26.850] [Server thread/INFO] [Jade/]: Syncing config to Sanity15 (cd33f3f6-85c5-3c3e-a90d-9834c22518b7)
+[16Feb2025 00:00:26.887] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Terramity]
+[16Feb2025 00:00:27.722] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Sanity15
+[16Feb2025 00:00:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Recycler]
+[16Feb2025 00:00:30.234] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-130, y=-20, z=-311}
+[16Feb2025 00:00:45.707] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=261, y=-50, z=61}
+[16Feb2025 00:00:56.065] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=274, y=-22, z=-56}
+[16Feb2025 00:00:59.280] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-13, y=-28, z=-379}
+[16Feb2025 00:01:06.085] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=300, y=-10, z=-337}
+[16Feb2025 00:01:07.840] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:07.841] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:07.841] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:07.842] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:07.842] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:07.856] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:07.856] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:10.931] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:10.931] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:11.341] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:11.341] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:11.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2208}
+[16Feb2025 00:01:11.729] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[16Feb2025 00:01:12.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=181, y=-51, z=-411}
+[16Feb2025 00:01:14.622] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[16Feb2025 00:01:14.623] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[16Feb2025 00:01:14.623] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[16Feb2025 00:01:14.623] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[16Feb2025 00:01:14.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[16Feb2025 00:01:14.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[16Feb2025 00:01:14.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[16Feb2025 00:01:14.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[16Feb2025 00:01:14.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[16Feb2025 00:01:14.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[16Feb2025 00:01:14.700] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[16Feb2025 00:01:14.891] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[16Feb2025 00:01:16.326] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[16Feb2025 00:01:18.106] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:18.128] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:18.130] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:18.131] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:18.132] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:18.766] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=111, y=83, z=-444}
+[16Feb2025 00:01:18.769] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=110, y=83, z=-439}
+[16Feb2025 00:01:19.146] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=217, y=-22, z=-446}
+[16Feb2025 00:01:20.761] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[16Feb2025 00:01:22.142] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=132, y=26, z=-453}
+[16Feb2025 00:01:24.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73650f36[id=<null>,name=Chik3nBl4ck,properties={},legacy=false] (/10.242.254.200:56799) lost connection: Disconnected
+[16Feb2025 00:01:37.451] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:37.451] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:37.452] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:37.452] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:01:39.331] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=350, y=46, z=-131}
+[16Feb2025 00:01:40.308] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2208}
+[16Feb2025 00:01:40.309] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[16Feb2025 00:01:45.550] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=353, y=-17, z=-365}
+[16Feb2025 00:01:48.091] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=379, y=-33, z=-364}
+[16Feb2025 00:01:51.956] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=390, y=22, z=-87}
+[16Feb2025 00:01:54.814] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=402, y=7, z=-222}
+[16Feb2025 00:01:56.845] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=290, y=-15, z=-490}
+[16Feb2025 00:02:03.591] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=263, y=-27, z=-504}
+[16Feb2025 00:02:03.732] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=322, y=-25, z=-508}
+[16Feb2025 00:02:06.487] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:06.488] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:06.488] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:06.489] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:06.717] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Feb2025 00:02:12.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=296, y=-21, z=-537}
+[16Feb2025 00:02:19.380] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=211, y=-10, z=-574}
+[16Feb2025 00:02:19.937] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=346, y=-9, z=-567}
+[16Feb2025 00:02:33.694] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
