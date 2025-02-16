@@ -1770,6 +1770,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-16 18:29:58 +0000",
       "minecraft:stony_peaks": "2025-02-16 02:14:40 +0000",
       "minecraft:lukewarm_ocean": "2025-02-16 00:43:34 +0000",
       "minecraft:river": "2025-02-16 02:16:52 +0000",
@@ -3574,6 +3575,24 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-02-16 02:30:41 +0000"
+    },
+    "done": false
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 18:24:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-16 18:24:05 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-02-16 18:24:05 +0000"
     },
     "done": false
   },

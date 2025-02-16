@@ -1676,9 +1676,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-16 18:27:51 +0000",
+      "minecraft:stony_peaks": "2025-02-16 18:32:44 +0000",
       "minecraft:river": "2025-02-16 00:12:22 +0000",
       "minecraft:lukewarm_ocean": "2025-02-16 00:32:08 +0000",
       "minecraft:stony_shore": "2025-02-16 00:16:50 +0000",
+      "minecraft:ocean": "2025-02-16 18:28:10 +0000",
       "minecraft:warm_ocean": "2025-02-16 00:35:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-16 01:23:22 +0000"
     },
@@ -3533,9 +3536,10 @@
   },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_gold_block": "2025-02-16 01:41:08 +0000"
+      "has_gold_block": "2025-02-16 01:41:08 +0000",
+      "has_the_recipe": "2025-02-16 18:24:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
@@ -3562,9 +3566,21 @@
     },
     "done": false
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-02-16 18:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 18:31:16 +0000"
     },
     "done": false
   },
@@ -3598,6 +3614,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 18:31:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
@@ -3616,9 +3638,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 18:31:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 18:31:16 +0000"
     },
     "done": false
   },
