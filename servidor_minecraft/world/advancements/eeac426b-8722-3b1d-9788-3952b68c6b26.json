@@ -1894,6 +1894,7 @@
       "minecraft:skeleton": "2025-02-16 00:31:50 +0000",
       "minecraft:vindicator": "2025-02-16 00:33:05 +0000",
       "minecraft:spider": "2025-02-16 01:32:22 +0000",
+      "minecraft:slime": "2025-02-16 18:18:06 +0000",
       "minecraft:husk": "2025-02-16 00:21:04 +0000",
       "minecraft:stray": "2025-02-16 00:31:50 +0000",
       "minecraft:zombie": "2025-02-16 00:21:04 +0000"
@@ -1914,7 +1915,8 @@
       "specialmobs:hungryspider": "2025-02-16 01:32:22 +0000",
       "specialmobs:zombie": "2025-02-16 00:21:04 +0000",
       "minecraft:vindicator": "2025-02-16 00:33:05 +0000",
-      "specialmobs:skeleton": "2025-02-16 00:31:50 +0000"
+      "specialmobs:skeleton": "2025-02-16 00:31:50 +0000",
+      "specialmobs:blueberryslime": "2025-02-16 18:18:06 +0000"
     },
     "done": false
   },
@@ -3572,6 +3574,54 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-02-16 02:30:41 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 18:18:30 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-02-16 18:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 18:18:30 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-02-16 18:18:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-02-16 18:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 18:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 18:18:30 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 18:18:30 +0000"
     },
     "done": false
   },

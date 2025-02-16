@@ -2983,9 +2983,10 @@
   },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 18:21:29 +0000",
       "has_diamond": "2025-02-16 00:48:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "tconstruct:recipes/decorations/gadgets/frame/diamond": {
     "criteria": {
@@ -3026,9 +3027,10 @@
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
+      "has_the_recipe": "2025-02-16 18:21:09 +0000",
       "has_diamond": "2025-02-16 00:48:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
@@ -3424,9 +3426,10 @@
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_iron_block": "2025-02-16 01:22:23 +0000"
+      "has_iron_block": "2025-02-16 01:22:23 +0000",
+      "has_the_recipe": "2025-02-16 18:14:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
@@ -3642,6 +3645,12 @@
       "has_netherite_ingot": "2025-02-16 18:12:38 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-16 18:18:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
