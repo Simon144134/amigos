@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "inputItem": "terramity:divergency_gauntlet:1",
+    "outputItems": [
+      "minecraft:glow_ink_sac:3",
+      "terramity:dimlite_ingot:2",
+      "terramity:diamond_gauntlet:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:radiant_honey:1",
+    "outputItems": [
+      "terramity:fairy_dust:2",
+      "minecraft:glow_berries:1",
+      "minecraft:honeycomb:2",
+      "minecraft:honey_bottle:1",
+      "minecraft:glowstone_dust:3"
+    ]
+  },
+  {
+    "inputItem": "terramity:electronic_scrap:1",
+    "outputItems": [
+      "minecraft:iron_ingot:1",
+      "terramity:daemonium_chunk:2",
+      "minecraft:copper_ingot:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:diamond_gauntlet:1",
+    "outputItems": [
+      "minecraft:diamond:6"
+    ]
+  },
+  {
+    "inputItem": "minecraft:chainmail_boots:1",
+    "outputItems": [
+      "luckys_armory:chainmail:4"
+    ]
+  },
+  {
+    "inputItem": "terramity:stillness_scarf:1",
+    "outputItems": [
+      "minecraft:sugar:2",
+      "minecraft:fermented_spider_eye:1",
+      "minecraft:white_wool:3",
+      "minecraft:anvil:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:battery:1",
+    "outputItems": [
+      "minecraft:copper_ingot:3",
+      "terramity:electronic_scrap:3",
+      "minecraft:iron_ingot:2",
+      "minecraft:redstone_block:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:gravity_gauntlet:1",
+    "outputItems": [
+      "terramity:dimlite_nugget:2",
+      "terramity:dimlite_ingot:1",
+      "terramity:raw_cosmilite:2",
+      "terramity:anti_gravity_belt:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:celestial_brew:1",
+    "outputItems": [
+      "terramity:fairy_dust:2",
+      "terramity:virentium_alloy_ingot:2",
+      "terramity:cosmilite_ingot:2",
+      "terramity:radiant_honey:1",
+      "terramity:iridescent_shard:2"
+    ]
+  },
+  {
+    "inputItem": "terramity:anvil_talisman:1",
+    "outputItems": [
+      "minecraft:iron_ingot:2",
+      "terramity:fairy_dust:2",
+      "minecraft:anvil:1"
+    ]
+  }
+]
