@@ -3509,3 +3509,145 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Feb2025 00:34:35.660] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [17Feb2025 00:34:35.660] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/amigos/servidor_minecraft/./config/infernalmobs.cfg
 [17Feb2025 00:34:35.863] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 429424 bytes (in 43 string chunks with the size of 10000)
+[17Feb2025 00:46:13.730] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[17Feb2025 00:46:13.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/10.147.17.228:54317] logged in with entity id 256 at (25.5, 88.0, -5.5)
+[17Feb2025 00:46:13.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[17Feb2025 00:46:14.114] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kazuruki
+[17Feb2025 00:46:14.121] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kazuruki'
+[17Feb2025 00:46:14.122] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
+[17Feb2025 00:46:14.123] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kazuruki'
+[17Feb2025 00:46:14.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Choose Your Class]
+[17Feb2025 00:46:14.263] [Server thread/INFO] [Jade/]: Syncing config to Kazuruki (855544bf-53c4-314e-898b-72dc5425c191)
+[17Feb2025 00:46:14.565] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Terramity]
+[17Feb2025 00:46:15.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Recycler]
+[17Feb2025 00:46:17.564] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kazuruki
+[17Feb2025 00:46:20.803] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[17Feb2025 00:46:20.804] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[17Feb2025 00:46:20.805] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[17Feb2025 00:46:29.292] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=222, y=-31, z=5}
+[17Feb2025 00:46:29.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chik3nBl4ck[/10.147.17.78:56126] logged in with entity id 429 at (17.5, 96.0, -22.5)
+[17Feb2025 00:46:29.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck joined the game
+[17Feb2025 00:46:29.992] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Chik3nBl4ck
+[17Feb2025 00:46:29.994] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Chik3nBl4ck'
+[17Feb2025 00:46:29.995] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Chik3nBl4ck'
+[17Feb2025 00:46:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Choose Your Class]
+[17Feb2025 00:46:30.046] [Server thread/INFO] [Jade/]: Syncing config to Chik3nBl4ck (d24633ce-4dfe-30cc-a241-dd694ac41bc3)
+[17Feb2025 00:46:30.205] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Terramity]
+[17Feb2025 00:46:30.538] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Chik3nBl4ck
+[17Feb2025 00:46:31.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Recycler]
+[17Feb2025 00:46:33.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.147.17.162:63596] logged in with entity id 455 at (9.5, 100.0, -24.5)
+[17Feb2025 00:46:33.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[17Feb2025 00:46:33.950] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[17Feb2025 00:46:33.955] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[17Feb2025 00:46:33.955] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[17Feb2025 00:46:33.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Choose Your Class]
+[17Feb2025 00:46:34.004] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[17Feb2025 00:46:34.063] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Terramity]
+[17Feb2025 00:46:34.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Recycler]
+[17Feb2025 00:46:35.569] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-168, y=33, z=-81}
+[17Feb2025 00:46:35.582] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-168, y=-26, z=-81}
+[17Feb2025 00:46:35.733] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[17Feb2025 00:46:39.257] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=30, y=-29, z=185}
+[17Feb2025 00:46:42.915] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=16, y=17, z=-220}
+[17Feb2025 00:47:25.142] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:25.143] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:25.143] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:25.144] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:25.223] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Chik3nBl4ck
+[17Feb2025 00:47:26.162] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3, y=-7, z=-237}
+[17Feb2025 00:47:35.519] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:35.520] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:35.520] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:35.520] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:47:39.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has completed the challenge [Berserk Class]
+[17Feb2025 00:47:42.173] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=113, y=-28, z=-260}
+[17Feb2025 00:47:42.583] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-159, y=-3, z=-261}
+[17Feb2025 00:47:45.034] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=227, y=0, z=4}
+[17Feb2025 00:47:45.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [Assassin Class]
+[17Feb2025 00:47:50.152] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=246, y=-17, z=10}
+[17Feb2025 00:47:57.267] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=75, y=25, z=-311}
+[17Feb2025 00:48:02.865] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=282, y=-27, z=-113}
+[17Feb2025 00:48:08.286] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=249, y=6, z=-350}
+[17Feb2025 00:48:08.892] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=256, y=-18, z=132}
+[17Feb2025 00:48:09.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[17Feb2025 00:48:09.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[17Feb2025 00:48:09.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[17Feb2025 00:48:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Feb2025 00:48:42.558] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=307, y=-24, z=-112}
+[17Feb2025 00:48:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set the time to 1000]
+[17Feb2025 00:48:59.182] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:48:59.182] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:48:59.465] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:48:59.466] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.280] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.281] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.403] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.404] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.404] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.406] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:02.407] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:03.610] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=157, y=-23, z=-407}
+[17Feb2025 00:49:11.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-121, y=-3, z=-402}
+[17Feb2025 00:49:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement ['X' Marks the Spot]
+[17Feb2025 00:49:22.170] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-151, y=-9, z=-331}
+[17Feb2025 00:49:24.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=165, y=-32, z=-457}
+[17Feb2025 00:49:26.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-146, y=8, z=-343}
+[17Feb2025 00:49:28.013] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=367, y=-29, z=-137}
+[17Feb2025 00:49:36.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=374, y=0, z=-162}
+[17Feb2025 00:49:36.343] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=378, y=9, z=-146}
+[17Feb2025 00:49:42.422] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Zombie
+[17Feb2025 00:49:44.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-223, y=-12, z=-355}
+[17Feb2025 00:49:45.174] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-222, y=-9, z=-380}
+[17Feb2025 00:49:45.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17Feb2025 00:49:53.517] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:49:59.595] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Mine? Mine? Mine?]
+[17Feb2025 00:50:00.890] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.891] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.891] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.892] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.921] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.922] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.922] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:00.923] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:07.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[17Feb2025 00:50:08.426] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-65, y=-42, z=-557}
+[17Feb2025 00:50:14.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Acquire Hardware]
+[17Feb2025 00:50:16.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=16, y=-40, z=-565}
+[17Feb2025 00:50:24.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[17Feb2025 00:50:25.669] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:25.819] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:25.820] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:25.820] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:25.821] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:50:26.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=44, y=-4, z=-595}
+[17Feb2025 00:50:27.966] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[17Feb2025 00:50:31.663] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-212, y=-4, z=191}
+[17Feb2025 00:50:32.165] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-300, y=-12, z=-240}
+[17Feb2025 00:50:33.662] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=41, y=-3, z=-612}
+[17Feb2025 00:51:01.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck lost connection: Disconnected
+[17Feb2025 00:51:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck left the game
+[17Feb2025 00:51:25.151] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:51:25.152] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:51:25.152] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:51:25.153] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:51:25.154] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:51:46.851] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ac08a9e[id=<null>,name=Chik3nBl4ck,properties={},legacy=false] (/10.147.17.78:57283) lost connection: Disconnected
+[17Feb2025 00:51:47.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/10.147.17.83:60483] logged in with entity id 3390 at (12.5, 92.0, -16.5)
+[17Feb2025 00:51:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[17Feb2025 00:51:47.501] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Sanity15
+[17Feb2025 00:51:47.502] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Sanity15'
+[17Feb2025 00:51:47.503] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Sanity15'
+[17Feb2025 00:51:47.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Choose Your Class]
+[17Feb2025 00:51:47.526] [Server thread/INFO] [Jade/]: Syncing config to Sanity15 (cd33f3f6-85c5-3c3e-a90d-9834c22518b7)
+[17Feb2025 00:51:47.591] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Terramity]
+[17Feb2025 00:51:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Recycler]
+[17Feb2025 00:51:51.195] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Sanity15
+[17Feb2025 00:52:05.777] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:52:05.778] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:52:05.778] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:52:05.779] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Feb2025 00:52:29.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=100, z=-21} BlockPos{x=32, y=100, z=-21}
+[17Feb2025 00:52:35.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=100, z=-21} BlockPos{x=32, y=100, z=-21}
+[17Feb2025 00:52:41.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d65750[id=<null>,name=Chik3nBl4ck,properties={},legacy=false] (/10.147.17.78:57348) lost connection: Disconnected
+[17Feb2025 00:52:42.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Stone Age]
